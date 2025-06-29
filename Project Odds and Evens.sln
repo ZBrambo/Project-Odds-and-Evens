@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project Odds and Evens", "Project Odds and Evens\Project Odds and Evens.vcxproj", "{AB49D8B8-90EA-49DA-B927-1378E3BD0DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB49D8B8-90EA-49DA-B927-1378E3BD0DD7}.Debug|x64.ActiveCfg = Debug|x64
+		{AB49D8B8-90EA-49DA-B927-1378E3BD0DD7}.Debug|x64.Build.0 = Debug|x64
+		{AB49D8B8-90EA-49DA-B927-1378E3BD0DD7}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB49D8B8-90EA-49DA-B927-1378E3BD0DD7}.Debug|x86.Build.0 = Debug|Win32
+		{AB49D8B8-90EA-49DA-B927-1378E3BD0DD7}.Release|x64.ActiveCfg = Release|x64
+		{AB49D8B8-90EA-49DA-B927-1378E3BD0DD7}.Release|x64.Build.0 = Release|x64
+		{AB49D8B8-90EA-49DA-B927-1378E3BD0DD7}.Release|x86.ActiveCfg = Release|Win32
+		{AB49D8B8-90EA-49DA-B927-1378E3BD0DD7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B833E02C-F411-4E63-9964-13F1B68FB894}
+	EndGlobalSection
+EndGlobal
