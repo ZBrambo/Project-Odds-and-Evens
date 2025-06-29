@@ -36,7 +36,7 @@ int main()
 
 	//Loops through vector function and prints each value as even or odd
 	for (int val : values) {
-		cout << val << " is " << ((val % 2 == 0) ? "EVEN!" : "ODD!") << endl;
+		cout << val << " is " << (val % 2 == 0 ? "EVEN!" : "ODD!") << endl;
 	}
 
 	return 0;
